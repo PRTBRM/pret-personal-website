@@ -1,0 +1,14 @@
+h1 {
+    padding: 10px;
+    text-decoration: underline;
+}
+body {
+    font-family: monospace;
+    padding: 10px;
+}
+li {
+    margin: 10px;
+}
+img.rounded-corners {
+    border-radius: 30px;
+}
